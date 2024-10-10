@@ -74,5 +74,5 @@ Contact
 ---------
 For any questions or inquiries regarding this project, feel free to contact:
 
-Email: yashwantmanish@gmail.com
-LinkedIn: https://www.linkedin.com/in/manish-yashwant/
+- Email: yashwantmanish@gmail.com
+- LinkedIn: https://www.linkedin.com/in/manish-yashwant/
